@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Accessible</string>
+    <string name="accessibility_service_description">此无障碍服务用于自动化测试，获取并操作当前应用中的按钮和可点击的视图。</string>
+</resources>
